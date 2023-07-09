@@ -20,4 +20,5 @@
 
 ### Sources:
 
-* https://learnprompting.org/docs/prompt_hacking/injection
+* PROMPT ENG. WEBSITE - https://learnprompting.org/docs/prompt_hacking/injection
+* PROMPT BOOK - https://heystacks.com/doc/1273/the-chatgpt-prompt-book-lifearchitectai-rev
