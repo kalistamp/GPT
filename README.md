@@ -14,7 +14,7 @@
 
 ### Prompts: 
 
-* https://prompts.chat/
+* https://prompts.chat/ - [Ex.] Act as a lnux terminal...
 
 ***
 
