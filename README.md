@@ -8,8 +8,23 @@
 
 * Task description
 * Examples
-* Prompt, main question 
+* Prompt, main question
 
+### Few Shots Prompting:
+
+Yet another prompting strategy is few shot prompting, which is basically just showing the model a few examples (called shots) of what you want it to do.
+
+The way that we format/structure the examples is very important. Its going to determine the format of the output.
+
+* Example one
+* Example Two
+* Example Three
+* Your input here to be answered
+
+  
+
+***
+***
 ***
 
 ### Prompts: 
