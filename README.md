@@ -12,6 +12,12 @@
 
 ***
 
+### Prompts: 
+
+* https://prompts.chat/
+
+***
+
 ### Sources:
 
 * https://learnprompting.org/docs/prompt_hacking/injection
