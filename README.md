@@ -12,7 +12,7 @@
 
 ### Few Shots Prompting:
 
-Yet another prompting strategy is few shot prompting, which is basically just showing the model a few examples (called shots) of what you want it to do.
+Yet another prompting strategy is [few shot prompting](https://learnprompting.org/docs/basics/few_shot), which is basically just showing the model a few examples (called shots) of what you want it to do.
 
 The way that we format/structure the examples is very important. Its going to determine the format of the output.
 
