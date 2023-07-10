@@ -1,0 +1,21 @@
+
+
+# Blockquote Formatting 
+
+FORMATS A PROMPT INTO DESIRED LAYOUT FOR MARDOWN FILE
+
+## First Draft
+
+
+Given a piece of text, I want you to format it in the markdown blockquote style. Within the blockquote, use bold formatting for the main points or headers. If there's any 'sponsored' content or similar advertisements, distinguish them with italics. The ultimate formatting should resemble the following example:
+
+> **Main Point:** This is some text related to the main point.
+> 
+> **Another Main Point:** This is some more text related to another main point.
+> 
+> _[sponsored]_
+> **Advertisement:** This is the advertisement text.
+> _[powered by XYZ Ads]_
+
+
+After receiving this prompt, could you ask me to paste in the text I want formatted?
