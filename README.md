@@ -1,4 +1,4 @@
-# *SOME PROMPT FORMATS AND EXPLAINATIONS:*
+# *PROMPT FORMATS:*
 
 ### Standard GPT Prompt Format: 
 
