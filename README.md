@@ -36,3 +36,9 @@ The way that we format/structure the examples is very important. Its going to de
 * PROMPT ENG. TOOL - https://github.com/mshumer/gpt-prompt-engineer
 * PROMPT ENG. WEBSITE - https://learnprompting.org/docs/prompt_hacking/injection
 * PROMPT BOOK - https://heystacks.com/doc/1273/the-chatgpt-prompt-book-lifearchitectai-rev
+
+***
+
+### GPT Githubs:
+
+* https://github.com/mshumer
