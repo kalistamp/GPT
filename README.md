@@ -8,6 +8,8 @@
 * Examples
 * Prompt, main question
 
+***
+
 ### Few Shots Prompting:
 
 Yet another prompting strategy is [few shot prompting](https://learnprompting.org/docs/basics/few_shot), which is basically just showing the model a few examples (called shots) of what you want it to do.
