@@ -42,6 +42,8 @@ Q: A juggler can juggle 16 balls. Half of the balls are golf balls, and half of 
 Output:
 
 The juggler can juggle 16 balls. Half of these balls are golf balls, so there are 16 / 2 = 8 golf balls. Then, half of these golf balls are blue, so there are 8 / 2 = 4 blue golf balls. So, there are 4 blue golf balls.
+
+Giving an example of the correct formula to follow when solving the question in your prompt you help the LM produce the correct answer by using that knowledge in there calculations.
   
 ***
 
