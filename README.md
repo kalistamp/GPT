@@ -81,6 +81,7 @@ In essence, the Tree of Thoughts theory is about breaking down complex problems 
 ### Sources:
 
 * PROMPT ENG. TOOL - https://github.com/mshumer/gpt-prompt-engineer
+* TOOLS - https://www.promptingguide.ai/tools
 * THE PROMPT ENG. GUIDE - https://www.promptingguide.ai/
 * PROMPT ENG. WEBSITE - https://learnprompting.org/docs/prompt_hacking/injection
 * PROMPT BOOK - https://heystacks.com/doc/1273/the-chatgpt-prompt-book-lifearchitectai-rev
