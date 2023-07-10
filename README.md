@@ -41,4 +41,5 @@ The way that we format/structure the examples is very important. Its going to de
 
 ### GPT Githubs:
 
+* AWESOME PROMPT ENG. LIST: https://github.com/promptslab/Awesome-Prompt-Engineering
 * https://github.com/mshumer
