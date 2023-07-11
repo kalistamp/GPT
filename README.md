@@ -72,6 +72,13 @@ In essence, the Tree of Thoughts theory is about breaking down complex problems 
 ***
 ***
 
+### Prompt IDE:
+
+* [Soaked](https://soaked-prompts.vercel.app/) is a prompt engineering IDE that focuses on visual prompt chaining with a graphical interface. It is currently in beta, but active development has ceased.
+
+
+***
+
 ### Prompts: 
 
 * https://prompts.chat/ - [Ex.] Act as a lnux terminal...
