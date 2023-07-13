@@ -1,3 +1,14 @@
+
+## READS:
+
+* https://mpost.io/best-chatgpt-jailbreaks/
+
+
+
+***
+***
+***
+
 # *PROMPT TECHNIQUES:*
 
 ### Standard GPT Prompt Format: 
