@@ -1,6 +1,7 @@
 
 ## READS:
 
+* https://github.com/openai/openai-cookbook
 * https://mpost.io/best-chatgpt-jailbreaks/
 
 
