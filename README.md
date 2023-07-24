@@ -5,6 +5,41 @@
 * https://mpost.io/best-chatgpt-jailbreaks/
 
 
+***
+
+### Prompts: 
+
+* https://prompts.chat/ - [Ex.] Act as a lnux terminal...
+
+***
+
+### Sources:
+
+* PROMPT ENG. TOOL - https://github.com/mshumer/gpt-prompt-engineer
+* TOOLS - https://www.promptingguide.ai/tools
+* THE PROMPT ENG. GUIDE - https://www.promptingguide.ai/
+* PROMPT ENG. WEBSITE - https://learnprompting.org/docs/prompt_hacking/injection
+* AI NEWS - https://www.mlyearning.org/
+
+***
+
+### GPT Githubs:
+
+* AWESOME PROMPT ENG. LIST: https://github.com/promptslab/Awesome-Prompt-Engineering
+* https://github.com/mshumer
+
+***
+
+* ### Prompt IDE:
+
+* [Soaked](https://soaked-prompts.vercel.app/) is a prompt engineering IDE that focuses on visual prompt chaining with a graphical interface. It is currently in beta, but active development has ceased.
+
+
+***
+***
+***
+
+
 
 ***
 ***
@@ -84,30 +119,6 @@ In essence, the Tree of Thoughts theory is about breaking down complex problems 
 ***
 ***
 
-### Prompt IDE:
-
-* [Soaked](https://soaked-prompts.vercel.app/) is a prompt engineering IDE that focuses on visual prompt chaining with a graphical interface. It is currently in beta, but active development has ceased.
 
 
-***
 
-### Prompts: 
-
-* https://prompts.chat/ - [Ex.] Act as a lnux terminal...
-
-***
-
-### Sources:
-
-* PROMPT ENG. TOOL - https://github.com/mshumer/gpt-prompt-engineer
-* TOOLS - https://www.promptingguide.ai/tools
-* THE PROMPT ENG. GUIDE - https://www.promptingguide.ai/
-* PROMPT ENG. WEBSITE - https://learnprompting.org/docs/prompt_hacking/injection
-* AI NEWS - https://www.mlyearning.org/
-
-***
-
-### GPT Githubs:
-
-* AWESOME PROMPT ENG. LIST: https://github.com/promptslab/Awesome-Prompt-Engineering
-* https://github.com/mshumer
