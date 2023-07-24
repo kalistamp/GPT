@@ -9,6 +9,7 @@
 
 ### Prompts: 
 
+* FLOW.GPT - https://flowgpt.com/
 * https://prompts.chat/ - [Ex.] Act as a lnux terminal...
 
 ***
