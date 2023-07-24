@@ -9,7 +9,7 @@
 
 ### Prompts: 
 
-* FLOW.GPT - https://flowgpt.com/
+* FLOW.GPT (Create your own prompt characters to test on site) - https://flowgpt.com/
 * https://prompts.chat/ - [Ex.] Act as a lnux terminal...
 
 ***
