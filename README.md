@@ -17,6 +17,10 @@
 
 ### Sources:
 
+
+* Perplexity Labs -
+https://labs.perplexity.ai
+
 * PROMPT ENG. TOOL - https://github.com/mshumer/gpt-prompt-engineer
 * TOOLS - https://www.promptingguide.ai/tools
 * THE PROMPT ENG. GUIDE - https://www.promptingguide.ai/
