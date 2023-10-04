@@ -71,9 +71,9 @@ The way that we format/structure the examples is very important. Its going to de
 
 Prompt:
 
-This is awesome! // Negative
+This is awesome! // Positive
 
-This is bad! // Positive
+This is bad! // Negative
 
 Wow that movie was rad! // Positive
 
