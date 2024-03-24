@@ -10,6 +10,6 @@ SUMMARIZING ARTICLES FOR QUICKER DIGESTION
 ****
 
 
-## Draft Two: 
+## Prompts Found: 
 
 > INSERT - HERE
